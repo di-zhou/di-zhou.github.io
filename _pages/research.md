@@ -10,14 +10,14 @@ author_profile: true
 
 ---
 
-My research revolves around two related interests. First, I am interested in how inequality and class structure affects political attitudes and political actions. Second, I am interested in using computational text analysis to study how discourse and opinions evolve over time. 
+My research uses computational methods to study core sociological concepts. First, I am interested in how occupation structure in the U.S. evolves overtime, and how such changes can be mapped to the capitalist class structure. Second, I am interested in using computational text analysis to study how discourse and opinions change over time. 
 
 ---
 
-  * **Inequality in American Suburbs** [Work in Progress]  
+  * **Social Class and the Change of Occupation Structure** [Work in Progress]  
       * Dissertation project
           * Committee Chair: Vivek Chibber, NYU Sociology
-      * In my dissertation research, I explore trends in inequality in American suburbs -an increasingly diverse yet unequal political battlefield in the American political geography. I use census and ACS data to describe the change in demographic composition and class structure in the past five decades.  
+      * For my dissertation, I apply computational text analysis and machine learning to understand how occupation structure in the U.S. have changed overtime. In particular, I examine how occupations have evolved overtime along the two key dimensions of social class (i.e. authority and autonomy) as theorized by Erik Olin Wright.   
 <br/><br/>  
 
   * **The Construction of Economic Subjects in Business-related Self-Help Books** [Work in Progress]  

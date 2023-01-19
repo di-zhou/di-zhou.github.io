@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://di-zhou.github.io/files/DiZhou_CV_June2022.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://username.github.io/files/DiZhou_CV_June2022.pdf" type="application/pdf" width="600px" height="500px" />
 
 

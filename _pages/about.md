@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there, welcome to my website! I am a PhD student at [NYU Sociology](https://as.nyu.edu/sociology.html).  
 
-My research centers on political sociology, inequality, culture and ideology, and computational methods. I am working on my dissertation and several other projects on how inequality affects political actions and discourse across time and space.  
+My research focuses on understanding core sociological concepts using innovative, computational methods. My dissertation focuses on the relationship bewteen social class and occupational structure in the U.S. At the same time, I work on several other projects that study how discourse and opinions change over time.  
 
 Learn more about my research [here](https://di-zhou.github.io//research/).
 

@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, welcome to my website! I am a PhD student at [NYU Sociology](https://as.nyu.edu/sociology.html).  
-
-My research focuses on understanding core sociological concepts using innovative, computational methods. My dissertation focuses on the relationship bewteen social class and occupational structure in the U.S. At the same time, I work on several other projects that study how discourse and opinions change over time.  
+Welcome to my website! I'm a Sociology Ph.D. candidate at [NYU](https://as.nyu.edu/sociology.html). My research focuses on using innovative computational methods to understand key sociological concepts. My dissertation research explores the relationship between social class and occupational structure in the U.S. I'm also involved in projects that examine how discourse and opinions change over time using computational text analysis. 
 
 Learn more about my research [here](https://di-zhou.github.io//research/).
 

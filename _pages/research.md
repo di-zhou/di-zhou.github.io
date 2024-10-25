@@ -20,20 +20,9 @@ My research uses computational methods to study core sociological concepts. Firs
       * For my dissertation, I apply computational text analysis and machine learning to understand how occupation structure in the U.S. have changed overtime. In particular, I examine how occupations have evolved overtime along the two key dimensions of social class (i.e. authority and autonomy) as theorized by Erik Olin Wright.   
 <br/><br/> 
 
-  * **The Construction of Economic Subjects in Business-related Self-Help Books** [Draft available upon request]  
-      * Co-author with Carly Knight, NYU Sociology
-      * Using a novel dataset of New York Times best seller lists since the 1970s, we analyze how the discourse on work, self, and employment change overtime in business-related self-help books. Specifically, we analyze how economic subjects are constructed overtime in parallel with the rise of neoliberalism.   
-<br/><br/>
-
-  * **Chinese Public Sentiments towards the U.S. and Democracy, 2011 to 2020** [Under review] 
-      * Co-author with Yinxian Zhang, Queens College Sociology, CUNY
-      * This project describes the long-term change in public sentiments towards the U.S. among Chinese internet users using political discussion data collected from Zhihu, the most popular online question-and-answer community in China that resembles Quora. Tracking sentiment change among Chinese netizens from 2011 to 2020, this paper provides a long-term overview of Chinese online sentiments in a rapidly changing decade. In addition, by leveraging measurement of the popularity of posts, this study empirically tests whether there is a discrepancy between prevalent versus popular sentiments.  
-<br/><br/>
-
-  * **[Red AI? Variation in GPT Models’ Political Knowl- edge and Sentiment in English and Simplified Chinese](https://arxiv.org/abs/2312.09917)** [Under review] 
+  * **[Political Biases and Inconsistencies in Bilingual GPT Models —the Cases of the U.S. and China.](https://doi.org/10.1038/s41598-024-76395-w)** (2024, *Scientific Reports*) 
       * Co-author with Yinxian Zhang, Queens College Sociology, CUNY
       * This research is one of the first studies that systematically investigate the cross-language political biases and inconsistencies in large language models (LLMs). We found that GPT models trained in different languages have sentiment biases that make them more positive toward their "own country" while more negative toward "other countries." In addition, we found that China-related political issues have significantly higher rates of inconsistency both in terms of content and sentiment, suggesting that Chinese state censorship and US-China geopolitical tensions may have influenced the performance of the bilingual GPT models. Our study brings public attention to the biases and inconsistencies in multilingual LLMs, which bear profound implications for cross-cultural communications.
-      * [Preprint on ArXiv](https://arxiv.org/abs/2312.09917)
 <br/><br/> 
 
   * **[The Elements of Cultural Power: Novelty, Emotion, Status, and Cultural Capital](https://journals.sagepub.com/doi/full/10.1177/00031224221123030)** (2022, *American Sociological Review*) 
@@ -47,5 +36,15 @@ My research uses computational methods to study core sociological concepts. Firs
       * Co-authored with Lijun Chen (Chapin Hall at the University of Chicago), Dali Yang (the University of Chicago), and Qiang Ren (Peking University)
       * Using data from the longitudinal Chinese Family Panel Studies (CFPS) survey, this book analyzes the well-being of Chinese children and youth from multiple dimensions. We not only pay attention to the economic, physical, psychological, cognitive, and attitudinal development of children in China, but also analyze how social and institutional context (such as migration and parental absence) affects child development.
 <br/><br/>  
+
+  * **The Construction of Economic Subjects in Business-related Self-Help Books** [Draft available upon request]  
+      * Co-author with Carly Knight, NYU Sociology
+      * Using a novel dataset of New York Times best seller lists since the 1970s, we analyze how the discourse on work, self, and employment change overtime in business-related self-help books. Specifically, we analyze how economic subjects are constructed overtime in parallel with the rise of neoliberalism.   
+<br/><br/>
+
+  * **Chinese Public Sentiments towards the U.S. and Democracy, 2011 to 2020** [Under review] 
+      * Co-author with Yinxian Zhang, Queens College Sociology, CUNY
+      * This project describes the long-term change in public sentiments towards the U.S. among Chinese internet users using political discussion data collected from Zhihu, the most popular online question-and-answer community in China that resembles Quora. Tracking sentiment change among Chinese netizens from 2011 to 2020, this paper provides a long-term overview of Chinese online sentiments in a rapidly changing decade. In addition, by leveraging measurement of the popularity of posts, this study empirically tests whether there is a discrepancy between prevalent versus popular sentiments.  
+<br/><br/>
 
  

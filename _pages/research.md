@@ -6,19 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-
----
-
-My research uses computational methods to study core sociological concepts. First, I am interested in how occupation structure in the U.S. evolves overtime, and how such changes can be mapped to the capitalist class structure. Second, I am interested in using computational text analysis to study how discourse and opinions change over time. 
-
----
-
   * **Social Class and the Change of Occupation Structure** [Work in progress]  
       * Dissertation project
           * Committee Chair: Vivek Chibber, NYU Sociology
-      * For my dissertation, I apply computational text analysis and machine learning to understand how occupation structure in the U.S. have changed overtime. In particular, I examine how occupations have evolved overtime along the two key dimensions of social class (i.e. authority and autonomy) as theorized by Erik Olin Wright.   
-<br/><br/> 
+      * My dissertation uses computational text analysis and machine learning to extract and measure class from text data. It aims to provide an updated class map of the U.S. labor force from the 1970s onwards.  
+<br/><br/>
 
   * **[Political Biases and Inconsistencies in Bilingual GPT Models —the Cases of the U.S. and China.](https://doi.org/10.1038/s41598-024-76395-w)** (2024, *Scientific Reports*) 
       * Co-author with Yinxian Zhang, Queens College Sociology, CUNY

@@ -9,9 +9,8 @@ author_profile: true
   * **Social Class and the Change of Occupation Structure** [Work in progress]  
       * Dissertation project
           * Committee Chair: Vivek Chibber, NYU Sociology
-      * My dissertation uses computational text analysis and machine learning to extract and measure class from text data. It aims to provide an updated class map of the U.S. labor force from the 1970s onwards.  
-<br/>
-
+      * My dissertation uses computational text analysis and machine learning to extract and measure class from text data. It aims to provide an updated class map of the U.S. labor force from the 1970s onwards.
+   
   * **[Political Biases and Inconsistencies in Bilingual GPT Models —the Cases of the U.S. and China.](https://doi.org/10.1038/s41598-024-76395-w)** (2024, *Scientific Reports*) 
       * Co-author with Yinxian Zhang, Queens College Sociology, CUNY
       * This research is one of the first studies that systematically investigate the cross-language political biases and inconsistencies in large language models (LLMs). We found that GPT models trained in different languages have sentiment biases that make them more positive toward their "own country" while more negative toward "other countries." In addition, we found that China-related political issues have significantly higher rates of inconsistency both in terms of content and sentiment, suggesting that Chinese state censorship and US-China geopolitical tensions may have influenced the performance of the bilingual GPT models. Our study brings public attention to the biases and inconsistencies in multilingual LLMs, which bear profound implications for cross-cultural communications.

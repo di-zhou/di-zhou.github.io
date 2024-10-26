@@ -29,7 +29,7 @@ author_profile: true
       * Co-author with Carly Knight, NYU Sociology
       * Using a novel dataset of New York Times best seller lists since the 1970s, we analyze how the discourse on work, self, and employment change overtime in business-related self-help books. Specifically, we analyze how economic subjects are constructed overtime in parallel with the rise of neoliberalism.   
 
-  * **Chinese Public Sentiments towards the U.S. and Democracy, 2011 to 2020** [Under review] 
+  * **Chinese Public Sentiments towards the U.S. and Democracy, 2011 to 2020** [Work in progress] 
       * Co-author with Yinxian Zhang, Queens College Sociology, CUNY
       * This project describes the long-term change in public sentiments towards the U.S. among Chinese internet users using political discussion data collected from Zhihu, the most popular online question-and-answer community in China that resembles Quora. Tracking sentiment change among Chinese netizens from 2011 to 2020, this paper provides a long-term overview of Chinese online sentiments in a rapidly changing decade. In addition, by leveraging measurement of the popularity of posts, this study empirically tests whether there is a discrepancy between prevalent versus popular sentiments.  
 

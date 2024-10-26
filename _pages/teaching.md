@@ -7,10 +7,8 @@ author_profile: true
 
 {% include base_path %}  
 
-* Spring 2022:  Teaching Assistant, SOC-UA 388: Capitalism and Democracy \n  
+**Spring 2022**: Teaching Assistant, SOC-UA 388: Capitalism and Democracy \
 Undergraduate course, NYU, Department of Sociology
 
-\n
-
-* Spring & Fall 2021: Teaching Assistant, SOC-GA 2332: Introduction to Statistical Methods \n  
+**Spring & Fall 2021**: Teaching Assistant, SOC-GA 2332: Introduction to Statistical Methods \
 Graduate/PhD-level course, NYU, Department of Sociology

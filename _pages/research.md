@@ -9,7 +9,7 @@ author_profile: true
   * **Extracting Class from Text Data: The Change of Class Structure of the U.S. Labor Market, 1960 to 2020** [Work in progress]  
       * Dissertation project
           * Committee Chair: Vivek Chibber, NYU Sociology
-      * My dissertation uses computational text analysis and machine learning to extract and measure class from text data. It aims to provide an updated class map of the U.S. labor force from the 1970s onwards, and explores the relationship between class and occupation both empirically and theoretically.
+      * My dissertation uses computational text analysis and machine learning to extract and measure class from text data. It aims to provide an updated class map of the U.S. labor force from the 1960s onwards, and explores the relationship between class and occupation both empirically and theoretically.
    
   * **[Political Biases and Inconsistencies in Bilingual GPT Models —the Cases of the U.S. and China.](https://doi.org/10.1038/s41598-024-76395-w)** (2024, *Scientific Reports*) 
       * Co-author with Yinxian Zhang, Queens College Sociology, CUNY
